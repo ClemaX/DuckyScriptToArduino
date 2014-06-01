@@ -1,4 +1,4 @@
-DuckyScriptToArduino
+DuckyScriptToArduino [![Build Status](https://travis-ci.org/thesymbol/DuckyScriptToArduino.svg?branch=master)](https://travis-ci.org/thesymbol/DuckyScriptToArduino)
 ====================
 
 Convert Duckyscript to Arduino C Code
