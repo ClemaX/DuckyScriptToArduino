@@ -24,7 +24,7 @@ import java.util.Set;
 
 /**
  *
- * @author Marcus
+ * @author Marcus & ClemaX
  */
 public class FileHandler {
 
